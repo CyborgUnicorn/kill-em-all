@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"7208-B-XL-TVP";"";
+"TraceParts.PartVersion";"1.4.1";"";
+"SUPPLIER";"Schaeffler Technologies AG & Co. KG";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"69-18092006-800713";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Angular contact ball bearings";"";
+"TraceParts.InstanceId";"69-18092006-8007136M97OLEE5W1MJYFRF6PD3UFT4";"";
+"TraceParts.PartTitle";"Angular contact ball bearings 72..-B, main dimensions to DIN 628-1, contact angle α = 40°";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"SELECTION";"7208-B-XL-TVP";"";
+"TraceParts.ClassPath";"INAFAG:/F_INAFAG/69-18092006-800713";"";
